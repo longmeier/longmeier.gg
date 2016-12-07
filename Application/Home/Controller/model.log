@@ -1,0 +1,29 @@
+充值方法
+获取code方法
+code传参信息{http://www.liuliangsc.com/interfaces/getcode.php}{response_type=code&AppID=64fd122ebb07efa6df96987376534e3f&AppSecret=b5defad5d7b42416db02e9fe7408de7c&request_time=20160218192917722&callback=http%3A%2F%2Fdemo.liuliangsc.com%2Findex.php%3Fs%3D%2FHome%2FAsk%2Fcallback}
+code回调信息：﻿{"result":"ok","desc":"Create Code ok."}
+充值信息：token=&package_code=YD01&phonenum=&operator=1&ordersn=20160218192918764&callback=http%3A%2F%2Fdemo.liuliangsc.com%2Findex.php%3Fs%3D%2FHome%2FReturndata%2Findex
+充值方法
+充值方法
+取值Array
+token数量[0]
+重新获取token
+获取code方法
+code传参信息{http://www.liuliangsc.com/interfaces/getcode.php}{response_type=code&AppID=64fd122ebb07efa6df96987376534e3f&AppSecret=1b0948427af26353e58d923d6efbcef0&request_time=20160219183704149&callback=http%3A%2F%2Fdemo.liuliangsc.com%2Findex.php%3Fs%3D%2FHome%2FAsk%2Fcallback}
+code回调信息：﻿{"result":"ok","desc":"Create Code ok."}
+充值信息：http://www.liuliangsc.com/interfaces/plat_oper.php?token=&package_code=YD01&phonenum=15083018413&operator=1&ordersn=20160219183704514&callback=http%3A%2F%2Fdemo.liuliangsc.com%2Findex.php%3Fs%3D%2FHome%2FReturndata%2Findex
+充值方法
+取值Array
+token数量[0]
+重新获取token
+获取code方法
+code传参信息{http://www.liuliangsc.com/interfaces/getcode.php}{response_type=code&AppID=64fd122ebb07efa6df96987376534e3f&AppSecret=0508483e727ad3a6b157f53ca4a96bd9&request_time=20160219183836142&callback=http%3A%2F%2Fdemo.liuliangsc.com%2Findex.php%3Fs%3D%2FHome%2FAsk%2Fcallback}
+code回调信息：﻿{"result":"ok","desc":"Create Code ok."}
+充值信息：http://www.liuliangsc.com/interfaces/plat_oper.php?token=&package_code=YD01&phonenum=15083018413&operator=1&ordersn=20160219183837451&callback=http%3A%2F%2Fdemo.liuliangsc.com%2Findex.php%3Fs%3D%2FHome%2FReturndata%2Findex
+充值方法
+充值方法
+充值方法
+充值方法
+充值方法
+充值方法
+充值方法
